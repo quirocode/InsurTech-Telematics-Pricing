@@ -42,11 +42,12 @@ Implementé métricas avanzadas en lenguaje DAX para aislar dinámicamente a los
 Diseñé una Matriz de Correlación de Riesgo (Gráfico de dispersión) que cruza la intensidad de la fuerza G frente a la frecuencia de agresividad, permitiendo identificar visualmente a los clientes críticos para aplicar un aumento de prima preventivo.
 
 📊 Visualización del Proyecto
-<img width="934" height="519" alt="image" src="https://github.com/user-attachments/assets/7632889b-7a2b-42fa-93af-9873ccdc722b" />
 
+<img width="934" height="519" alt="image" src="https://github.com/user-attachments/assets/7632889b-7a2b-42fa-93af-9873ccdc722b" />
 Dashboard_Telematics_Risk_Analytics.jpg
 
 🚀 Tecnologías Utilizadas
+
 Lenguajes: R (Procesamiento analítico y ML), DAX (Lógica de negocio y KPIs).
 
 Librerías: data.table, dplyr, rpart.
