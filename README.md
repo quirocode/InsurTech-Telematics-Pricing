@@ -57,6 +57,7 @@ Herramientas: RStudio, Power BI Desktop, Excel (validación), Gemini.
 Conceptos: Big Data Ingestion, Vector Physics, Business Intelligence, InsurTech.
 
 📬 Contacto
+
 Si formas parte de un equipo de Innovación, Data Analytics o Tecnología y buscas perfiles con espíritu ganador que lideren innovando, me encantaría conversar sobre este proyecto y cómo escalar estas soluciones.
 
 LinkedIn: www.linkedin.com/in/rodrigo-quiroga-6772ba2a4
